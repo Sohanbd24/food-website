@@ -50,9 +50,8 @@ section{
     display: flex;
 
 }
-.for-fix{
+ .for-fix{
     display: flex;
-    width: 130%;
 }
     .last-part1{
     
@@ -67,4 +66,6 @@ section{
         color: orangered;
     }
 
-
+.orange-color{
+    color:orangered;
+}
