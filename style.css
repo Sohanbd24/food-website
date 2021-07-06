@@ -1,0 +1,70 @@
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color: orangered;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.for-size{
+    width: 50%;
+    padding-left: 10%;
+}
+.for-size img{
+    width: 60%;
+}
+.make-link{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image:linear-gradient(tomato , orangered);
+    padding: 200 % 400 %; 
+    border-radius: 100px;
+    color: white;
+    font-weight:700;
+}
+.back-photo{
+    background-image:url(lady3.png);
+    padding-left: 5%;
+    display: flex;
+
+}
+.for-text{
+    text-align: center;
+    padding : 0px 500px;
+}
+}
+.for-center{
+    width: 40%;
+    left: 20%;
+
+    padding-bottom: 30px;
+
+ 
+}
+.for-center img{
+    width: 40%;
+}
+.photo-size{
+    display: flex;
+
+}
+.for-fix{
+    display: flex;
+    width: 130%;
+}
+    .last-part1{
+    
+        background-color: black;   
+
+    }
+    .last-part{
+        color:white;
+        padding-left: 35%;
+    }
+    .last-color{
+        color: orangered;
+    }
+
+
